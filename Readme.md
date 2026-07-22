@@ -1,3 +1,6 @@
+Margarita-Ye-Di-Sieve
+Proof of Concept: Two-Stage Pre-Sieve Architecture for Proth/LLR Primes.
+
 Hello everyone,
 
 I've been conducting some independent R&D in computational number theory, specifically targeting $N = k \cdot 2^n + 1$ topologies, and I would like to submit a Proof of Concept (PoC) to this community for auditing. I call this two-stage architecture the **Margarita Sieve & Ye-Di Criterion**.
